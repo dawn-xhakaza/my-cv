@@ -1,25 +1,25 @@
 # my-cv
 My Curriculum Vitae 
 
-##Personal Details 
-Name : Thulisile
-Surname : Xhakaza
-Email : thulisilexhakaza@gmail.com 
-Gender : Female
-link :https://www.linkedin.com/in/dawn-xhakaza-26b955329?utm_source=share&utm_campaign=share_via&utm_conte
+## Personal Details 
+Name : Thulisile  
+Surname : Xhakaza  
+Email : thulisilexhakaza@gmail.com   
+Gender : Female  
+link :https://www.linkedin.com/in/dawn-xhakaza-26b955329?utm_source=share&utm_campaign=share_via&utm_conte  
 
-##Education 
-###High School :
+## Education   
+### High School :
  Newlands East Secondary School 
 
-###Primary school: 
+### Primary school: 
 Roseland Primary School 
 
-###Instituation: 
+### Instituation: 
 Richfield Umhlanga Campus : Bachelor's Science of Information Technology,
 still currently studying 
 
-##Skills 
+## Skills 
 •Problem-solving : able to troubleshoot issues logically and efficiently.
 
 •Critical thinking: evaluates information, identifies patterns, and makes informed decisions.
